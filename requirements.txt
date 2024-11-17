@@ -4,6 +4,6 @@ streamlit
 python-dotenv
 PyPDF2
 langchain_nvidia_ai_endpoints
-
+langchain_community
 -e .
 # -e . also installs local package of mcqgenerator in setup.py

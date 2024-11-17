@@ -22,3 +22,44 @@
 6. Output:  
    - Displays generated MCQs and answers on the Streamlit interface.  
    - Options to download the questions for offline use.  .
+
+
+'''
+F:
+
+cd MCQ_Generator
+
+conda create -p env python=3.11 -y
+
+ conda activate F:\MCQ_Generator\env
+
+code . 
+
+pip list
+conda list...
+
+git status
+   
+git add .
+git status
+
+git commit -m "folder structure updated"
+git push -f origin main
+git add remote origin https://github.com/dhruvagrawal27/MCQ_Generator.git
+
+git push -f origin main
+
+pip install -r requirements.txt
+pip list
+
+git add .
+git commit -m "second commit"
+git push -f origin main
+'''
+
+
+'''
+source activate ./env
+pip list
+pip show langchain_nvidia_ai_endpoints
+'''
