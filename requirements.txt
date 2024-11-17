@@ -1,0 +1,9 @@
+openai
+langchain
+streamlit
+python-dotenv
+PyPDF2
+langchain_nvidia_ai_endpoints
+
+-e .
+# -e . also installs local package of mcqgenerator in setup.py
