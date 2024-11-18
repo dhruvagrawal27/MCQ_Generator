@@ -1,4 +1,5 @@
 # MCQ_Generator
+
 1. File Input:  
    - Upload a document or file containing the content.  
    - The file will serve as the source for question generation.  
@@ -23,8 +24,11 @@
    - Displays generated MCQs and answers on the Streamlit interface.  
    - Options to download the questions for offline use.  .
 
+Demo
+[![Watch the video](https://raw.githubusercontent.com/dhruvagrawal27/MCQ_Generator/main/demothumbnail.jpg)](https://raw.githubusercontent.com/dhruvagrawal27/MCQ_Generator/main/demorun.mp4)
 
-'''
+
+```
 F:
 
 cd MCQ_Generator
@@ -55,11 +59,11 @@ pip list
 git add .
 git commit -m "second commit"
 git push -f origin main
-'''
+```
 
 
-'''
+```
 source activate ./env
 pip list
 pip show langchain_nvidia_ai_endpoints
-'''
+```
